@@ -1,6 +1,6 @@
 ## FP ARITHMATIC LIBRARY (*version = 1.0.1*)
 This is my *first* python library to test and publish python package on PyPI.  
-It includes three arithmatic functions as follows:
+It includes arithmatic functions as follows:
 - add -> adds two numbers
 - mul -> multiplies two numbers
 - sqrt -> computes sqrt of given number
