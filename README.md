@@ -26,3 +26,9 @@ x = [1, 3]
 y = [4, 7]
 dist = fpa.distance(x,y) # returns 5
 ```
+
+### Testing
+In order to test the library, I have provided 8 test cases using python's built-in *unittest* module in the **tests** folder. Run below command in the root directory to run the test cases.
+```
+python3 -m unitest tests/arithmatic_tests.py
+```
